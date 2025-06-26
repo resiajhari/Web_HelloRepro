@@ -1,1 +1,7 @@
- 
+![Tampilan Index](index.png)
+![Tampilan register](register.png)
+![Tampilan login](login.png)
+![Tampilan dashboard](dashboard.png)
+![Tampilan artikel](artikel.png)
+![Tampilan tips](tips.png)
+![Tampilan puberty](puberty.png) 
